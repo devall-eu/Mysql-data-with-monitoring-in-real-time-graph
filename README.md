@@ -16,3 +16,5 @@ Include the files below in CodeIgniter as they are required to display the graph
 
 
 This can be used like standard Codeigniter MVC or use in modular HMVC
+
+Visit on page: https://dev-all.eu/blog/mysql-data-with-monitoring-in-real-time-graph
